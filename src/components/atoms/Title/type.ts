@@ -1,0 +1,3 @@
+interface ITitleProps {
+  text: string
+}

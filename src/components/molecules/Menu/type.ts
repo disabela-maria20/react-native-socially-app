@@ -1,0 +1,3 @@
+interface IMenuProps {
+  text: string
+}
