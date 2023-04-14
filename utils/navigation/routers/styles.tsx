@@ -2,7 +2,9 @@ import styled from 'styled-components/native';
 
 export const AddPhoto = styled.Image`
   position: relative;
-  bottom: 15px;
+  bottom: 25px;
+  width: 115px;
+  height: 115px;
 `;
 
 export const tabBarStyle = styled.View`

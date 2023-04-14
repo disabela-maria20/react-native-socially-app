@@ -29,6 +29,7 @@ export function NavigatorTab() {
           shadowRadius: 15,
           borderRadius: 20,
           backgroundColor: "#fff",
+          borderColor: '#fff'
         },
 
       }}

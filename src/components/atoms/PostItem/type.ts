@@ -1,0 +1,4 @@
+interface IPostItem {
+  data: IPostList
+}
+
